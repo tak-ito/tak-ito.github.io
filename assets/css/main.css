@@ -3903,4 +3903,18 @@ input, select, textarea {
 }
 .more1:target {
   display: block;
-}/* 続きを読む　対応　ここまで */
+}
+
+.more2 {
+  display: none;
+}
+.more2:target {
+  display: block;
+
+.more3 {
+  display: none;
+}
+.more3:target {
+  display: block;
+
+/* 続きを読む　対応　ここまで */
