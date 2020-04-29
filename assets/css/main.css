@@ -3899,7 +3899,7 @@ input, select, textarea {
 		}
 /* 続きを読む　対応　ここから */
 .grad-btn {
-  /*.grad-btnのCSSは表示/非表示の動作には関係ないので、ご自由にどうぞ。*/
+  /*.grad-btnのCSSは表示/非表示の動作には関係ない。*/
 }
 .grad-btn::before {
   content: "続きを読む"
